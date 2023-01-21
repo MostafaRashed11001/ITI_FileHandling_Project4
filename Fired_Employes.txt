@@ -1,0 +1,5 @@
+name_of_Fired_Employe : Mostafa
+Salary_of_Fired_Employe:10000.0
+Phone_number_Fired_Employe:1064472044.0
+Day_Fired_Employe:12112022.0
+/////////////////////END process//////////////////////////

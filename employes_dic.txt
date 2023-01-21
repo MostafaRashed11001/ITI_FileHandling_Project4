@@ -1,0 +1,12 @@
+name_of_new_Employe : Mahmod
+Salary_of_new_Employe:3000.0
+/////////////////////END process//////////////////////////
+name_of_new_Employe : Mostafa
+Salary_of_new_Employe:10000.0
+/////////////////////END process//////////////////////////
+name_of_new_Employe : Mostafa
+Salary_of_new_Employe:20000.0
+/////////////////////END process//////////////////////////
+name_of_new_Employe : ali
+Salary_of_new_Employe:30000.0
+/////////////////////END process//////////////////////////

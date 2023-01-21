@@ -1,0 +1,30 @@
+name_of_new_product : tomato
+Quantity_of_new_product:60.0
+Price_of_new_product:10.0
+/////////////////////END process//////////////////////////
+name_of_new_product : Mango
+Quantity_of_new_product:40.0
+Price_of_new_product:45.0
+/////////////////////END process//////////////////////////
+name_of_product : Mango
+Change_of_Price_product:35.0
+/////////////////////END process//////////////////////////
+name_of_product : Mango
+Change_of_Quantity_product:60.0
+/////////////////////END process//////////////////////////
+name_of_new_product : Mango
+Quantity_of_new_product:60.0
+Price_of_new_product:35.0
+/////////////////////END process//////////////////////////
+name_of_new_product : Mango
+Quantity_of_new_product:60.0
+Price_of_new_product:45.0
+/////////////////////END process//////////////////////////
+name_of_new_product : Mango
+Quantity_of_new_product:60.0
+Price_of_new_product:35.0
+/////////////////////END process//////////////////////////
+name_of_new_product : Mango
+Quantity_of_new_product:60.0
+Price_of_new_product:35.0
+/////////////////////END process//////////////////////////

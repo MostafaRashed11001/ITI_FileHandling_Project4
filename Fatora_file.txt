@@ -1,0 +1,14 @@
+name_of_Customer_product 'Mango
+Price of last product::350.0name_of_Customer_product 'Mango
+Price of last product::350.0name_of_Customer_product 'Mango
+Price of last product::450.0Customer_Products_dic:{'Customer_product': ['Quantity'], 'Mango': [10.0]}
+Total cost =450.0
+/////////////////////END process//////////////////////////
+name_of_Customer_product 'Mango
+Price of last product::350.0Customer_Products_dic:{'Customer_product': ['Quantity'], 'Mango': [10.0]}
+Total cost =350.0
+/////////////////////END process//////////////////////////
+name_of_Customer_product 'Mango
+Price of last product::350.0Customer_Products_dic:{'Customer_product': ['Quantity'], 'Mango': [10.0]}
+Total cost =350.0
+/////////////////////END process//////////////////////////
